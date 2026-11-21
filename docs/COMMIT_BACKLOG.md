@@ -32,7 +32,7 @@ and commits. Changes must be **additive** — the work was graded.
 
 ## Queue
 
-- [ ] **B1 — README.md.** Explain the problem, the five datasets and their columns, how to run the
+- [x] **B1 — README.md.** Explain the problem, the five datasets and their columns, how to run the
       notebook (from the repo root, since paths are relative), the 10 sections of the notebook, and what
       it outputs. Describe only what the notebook demonstrably does; quote findings only as recorded in
       its stored outputs.
@@ -70,3 +70,4 @@ and commits. Changes must be **additive** — the work was graded.
 ## Log
 
 2026-10-26 - audit - docs: add commit backlog from repo audit
+2026-11-21 - B1 - docs: add README explaining the air-quality EDA notebook
